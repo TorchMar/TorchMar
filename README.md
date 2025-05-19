@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Yuhong Liu (TorchMar)
 
-<!--
-**TorchMar/TorchMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+📖 I'm currently an undergraduate student (from 2026 Fall) at Antai College of Economics and Management, Shanghai Jiao Tong University, pursueing a Bachelor's degree in Finance and Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 I'm interested in Computer Science and Large Language Models, especially the interdisciplinary area between machine learning and finance. Now I'm doing a PRP program *Research of LLM deployed in Corporate Governance.*
+
+🖥️ I was formally an OIer in high school. In other words, I used to enjoy programming and compete in the Olympiad of Informatics (OI).
+
+📄 I am now a member of Academic Department of Student Union of Antai. I'm also an active member of Technology Department of Art Center of SJTU, participating in holding performances like Top-ten Singers and OASIS Music Festi.
+
+📝 I am now learning to become a blogger. Here's my [personal website](https://torchmar.github.io/). Hope my blogs will help you.
+
+## My Interests
+
+---
+
+📚 I'm interested in Japanese literature and lyric literature. My facorite authors are Kawabata Yasunari and Okawa Ito.
+
+🖋️ I'm also interested in writing, especially short novel writing.
+
+👟 I'm now learning body buiding and trying to advance in volleyball. My position is libero defensive player.
+
+🖥️ I have played computer games maybe since I was 3. My first game is Plant versus Zombies.
+
+🎮 My game interest focuses on Arknights, Identity V (now a survivor member of school team) and rhythm games.
+
+⌨️ I also play games like Overwatch, Palworld, Counter Strike and Minecraft.
+
+🎶 I like music and love singing. My favorite singer is Sia. I also like Lady Gaga and Rihanna's songs.
+
+📺 I've been enjoying ACGN since 2018. My first animation is [Miss Kobayashi&#39;s Dragon Maid](https://bangumi.tv/subject/179949).
+
+🏫 I'm an active member of [SJTU Identity V Club](https://space.bilibili.com/1002245415?spm_id_from=333.337.0.0) and SJTU Volleyball Club.
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TorchMar&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
+[![TorchMar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TorchMar)](https://github.com/ashutosh00710/github-readme-activity-graph)

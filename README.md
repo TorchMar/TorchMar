@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Yuhong Liu (TorchMar)
 
----
 
 📖 I'm currently an undergraduate student (from 2026 Fall) at Antai College of Economics and Management, Shanghai Jiao Tong University, pursueing a Bachelor's degree in Finance and Computer Science.
 
@@ -14,7 +13,6 @@
 
 ## My Interests
 
----
 
 📚 I'm interested in Japanese literature and lyric literature. My facorite authors are Kawabata Yasunari and Okawa Ito.
 

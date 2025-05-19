@@ -34,6 +34,14 @@
 
 🏫 I'm an active member of [SJTU Identity V Club](https://space.bilibili.com/1002245415?spm_id_from=333.337.0.0) and SJTU Volleyball Club.
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TorchMar&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-[![TorchMar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TorchMar)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+[![TorchMar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorchMar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![TorchMar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TorchMar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
